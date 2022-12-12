@@ -1,0 +1,15 @@
+body{
+   
+}
+
+div{
+    height: 600px; width: 400px;
+    background-color: #1f314f;
+    padding: 20px;
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
